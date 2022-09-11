@@ -1,0 +1,7 @@
+{
+  "name": "Friend Links",
+  "description": "Generate friend links to send to other users",
+  "author": "Fayne Aldan",
+  "file": "src/index.ts",
+  "license": "MIT"
+}
